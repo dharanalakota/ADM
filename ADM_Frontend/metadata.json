@@ -1,0 +1,6 @@
+{
+  "name": "ADM — Adaptive Decision Memory",
+  "description": "AI-powered business decision intelligence built around persistent memory. Make decisions, record outcomes, and turn past experience into evidence for future decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
